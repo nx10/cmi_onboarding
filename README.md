@@ -3,20 +3,21 @@
 ## Solutions
 
 - "1. What is this?"
-  - [./inspect_files.ipynb]()
+  - [inspect_files.ipynb]()
 - "2. When given ____, show us ____."
   - The complete configuration used and its differences from the default pipeline
-    - [./configs.ipynb]()
+    - [configs.ipynb]()
   - The a) longest and b) most memory-consuming tasks in the pipeline
-    - [./log_parsing.ipynb]()
+    - [log_parsing.ipynb]()
   - All quality control (QC) plots generated throughout executions
-    - [./qc_plots.ipynb]()
+    - [qc_plots.ipynb]()
   - When given voxelwise time series data, show us...
-    - [./voxel.ipynb]()
+    - [voxel.ipynb]()
   - When given vertexwise time series and surface data, show us...
-    - [./surface.ipynb]()
+    - [surface.ipynb]()
   - When given a BIDS input dataset, show us...
-    - [./cpac_proc.ipynb]()
+    - [cpac_proc.ipynb]()
+    - [cpac_run_proof]()
 
 
 ## Local execution / reproduction
