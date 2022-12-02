@@ -1,4 +1,4 @@
-# CMI onboarding challanges
+# CMI onboarding challenges
 
 ## Solutions
 
